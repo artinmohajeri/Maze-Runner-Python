@@ -1,8 +1,8 @@
 # Maze Runner Python
 ### I have used python3.12 and pygame library to build this game.
 ![redLine](https://github.com/artinmohajeri/Maze-Runner-Python/assets/95845593/67162ff8-1d46-479e-855b-41b4f35323ea)
-### You have to play using "w","s","a","d" keys to move the circle.
-### If you colide with the maze border, you have to start again. Find a way to scape from the maze.
+### You have to play using "w","s","a","d" keys to move.
+### If you collide with the maze border, you have to start again. Find a way to scape from the maze.
 
 
 
